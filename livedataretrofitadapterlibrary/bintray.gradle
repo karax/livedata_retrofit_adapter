@@ -31,7 +31,8 @@ bintray {
     key = properties.getProperty("bintray.apikey")
 
     pkg {
-        repo = 'maven'
+        userOrg = 'jeankarax'
+        repo = 'LiveDataRetrofitAdapter'
         name = 'com.jeankarax.livedataretrofitadapter'
         configurations = ['archives']
         desc = 'LiveDataRetrofitAdapter'
