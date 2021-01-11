@@ -1,4 +1,4 @@
-package com.jeankarax.livedataretrofitadapter
+package com.jeankarax.livedataretrofitadapterlibrary
 
 data class ViewResponse <out T>(
     val status: Status,

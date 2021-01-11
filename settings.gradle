@@ -1,2 +1,4 @@
+include ':livedataretrofitadapter'
+include ':livedataretrofitadapterlibrary'
 include ':app'
 rootProject.name = "LiveDataRetrofitAdapter"

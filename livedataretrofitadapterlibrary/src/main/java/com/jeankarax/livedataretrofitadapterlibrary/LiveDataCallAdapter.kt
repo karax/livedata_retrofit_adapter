@@ -1,4 +1,4 @@
-package com.jeankarax.livedataretrofitadapter
+package com.jeankarax.livedataretrofitadapterlibrary
 
 import androidx.lifecycle.LiveData
 import retrofit2.Call

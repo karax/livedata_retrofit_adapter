@@ -1,4 +1,4 @@
-package com.jeankarax.livedataretrofitadapter
+package com.jeankarax.livedataretrofitadapterlibrary
 
 import retrofit2.Response
 import java.lang.Exception
